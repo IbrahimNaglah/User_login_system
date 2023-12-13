@@ -1,9 +1,4 @@
-/****************************************/
-/*          Author: Khaled Mohsen       */        
-/*          Date: 07-11-2023            */
-/*          Version: 1.0                */
-/*          Module: KEYPAD              */
-/****************************************/
+
 #ifndef KEYPAD_CONFIG_H_
 #define KEYPAD_CONFIG_H_
 
