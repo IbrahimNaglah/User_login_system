@@ -1,9 +1,3 @@
-/*
- * IncFile1.h
- *
- * Created: 11/14/2023 7:57:53 PM
- *  Author: HP
- */ 
 
 
 #ifndef INCLUDES_H_
